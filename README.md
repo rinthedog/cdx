@@ -41,5 +41,4 @@ Aliases are stored in `%USERPROFILE%\.cdx_aliases.json`
 3. Run `go build`
 
 ## License
-
-MIT License
+[MIT License](LICENSE)
